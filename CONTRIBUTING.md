@@ -55,4 +55,4 @@ If you have any questions about contributing to CleanVision, feel free to
 [issues]: https://github.com/cleanlab/cleanvision/issues
 [fork]: https://github.com/cleanlab/cleanvision/fork
 [pr]: https://github.com/cleanlab/cleanvision/pulls
-[discussions]: https://github.com/cleanlab/cleanvision/discussions
+[discussions]: 
