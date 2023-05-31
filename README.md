@@ -8,8 +8,8 @@ CleanVision automatically detects potential issues in image datasets like images
 This data-centric AI package is a quick first step for any computer vision project to find problems in the dataset, which you want to address before applying machine learning.
 CleanVision is super simple -- run the same couple lines of Python code to audit any image dataset!
 
-[![Read the Docs](https://readthedocs.org/projects/cleanvision/badge/?version=latest)](https://cleanvision.readthedocs.io/en/latest/)
-[![pypi](https://img.shields.io/pypi/v/cleanvision?color=blue)](https://pypi.org/pypi/cleanvision/)
+[![Read the Docs](https://readthedocs.org/projects/cleanvision/badgewrongurl/?version=latest)](https://cleanvision.readthedocs.io/en/latest/)
+[![pypi](https://img.shields.io/pypi/v/cleanvisionwrongurl?color=blue)](https://pypi.org/pypi/cleanvision/)
 [![os](https://img.shields.io/badge/platform-noarch-lightgrey)](https://pypi.org/pypi/cleanvision/)
 [![py\_versions](https://img.shields.io/badge/python-3.7%2B-blue)](https://pypi.org/pypi/cleanvision/)
 [![codecov](https://codecov.io/github/cleanlab/cleanvision/branch/main/graph/badge.svg?token=y1N6MluN9H)](https://codecov.io/gh/cleanlab/cleanvision)
